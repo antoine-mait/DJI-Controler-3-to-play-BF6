@@ -68,7 +68,6 @@ joy.cpl
 ## Customization
 
 Inside the Python script (`dji_to_xbox.py`):
-- Adjust **axis mappings** or **neutral values** if your sticks drift.
 - Game need restart. But even so it's doesn't seems to be seens by the game, so you'll have to modify the input ingame to make it work with this setup ( that what i did )
 
 ---
