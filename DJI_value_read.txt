@@ -1,0 +1,42 @@
+Dji controler 0-12 paramettre
+[1,2] = 0
+[0]
+Right trigger btn: 
+0 ( push top )- 16 ( middle ) - 32 ( push bot )
+left trigger btn:
+128 ( push top )- 0 ( middle ) - 64 ( push bot )
+right top gachette : 
+8
+right bot gachette : 
+2
+left top gachette : 
+4
+left front button :
+1
+
+[11,12]
+Left scroller :
+left push = 108 - 253 / neutral = 0 / Right push = 148 -2
+
+[7,8]
+Left joystick : 
+Pull = 108 - 253 
+neutral = 0 - 0 
+Pushed = 148 - 2
+[9,10]
+Left joystick:
+left =108-253
+neutral = 0- 0
+right = 148-2
+
+[5,6]
+Right joystick:
+Pull = 108 - 253 
+neutral = 0 - 0 
+Pushed = 148 - 2
+
+[3,4]
+Right joystick:
+left =108-253
+neutral = 0- 0
+right = 148-2
